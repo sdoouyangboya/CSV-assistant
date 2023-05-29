@@ -1,31 +1,25 @@
-CSV Assistant
+# CSV Assistant
 CSV Assistant is a tool that utilizes ChatGPT and Streamlit to visualize CSV data.
 
-Features
+## Features
 Load and visualize CSV data.
 Interact with the data using ChatGPT.
 Generate insights and summaries of the data.
-Requirements
+## Requirements
 Python 3.6 or above.
 Install the required dependencies by running: pip install -r requirements.txt.
-Usage
+## Usage
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/csv-assistant.git
 cd csv-assistant
-Install the required dependencies:
+## Install the required dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Prepare your CSV data file. Make sure the data is formatted correctly.
 
-Run the CSV Assistant:
-
-bash
-Copy code
+## Run the CSV Assistant:
 streamlit run csv_visual.py
 The CSV Assistant web application will open in your default browser.
 
@@ -37,7 +31,7 @@ Utilize the ChatGPT-powered assistant to interact with the data. Enter queries o
 
 Experiment with different interactions and explore the data using the provided features.
 
-License
+## License
 This project is licensed under the MIT License.
 
 Feel free to customize the README based on your project's specific details, such as adding information about the CSV data format, providing examples of possible interactions, or including any additional sections that might be relevant.
